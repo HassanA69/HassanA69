@@ -15,7 +15,7 @@ I'm currently learning and expanding my skills as a full-stack engineer at **EEL
 
 - [Todo_PHP](https://github.com/HassanA69/Todo_PHP) - A simple PHP-based Todo application. ⭐️ 0 stars | Language: PHP | Forks: 0 | Issues: 0
 - [Login_app_PHP](https://github.com/HassanA69/Login_app_PHP) - A login application built using PHP. ⭐️ 0 stars | Language: PHP | Forks: 0 | Issues: 0
-- [swot](https://github.com/HassanA69/swot) - Identify email addresses or domains that belong to colleges or universities. ⭐️ 0 stars | Language: N/A | Forks: 0 | Issues: 0
+
 
 ## GitHub Stats
 
