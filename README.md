@@ -8,7 +8,8 @@ I'm currently learning and expanding my skills as a full-stack engineer at **EEL
 
 ## Skills & Technologies
 
-php,mysql,html,css,git,github,laravel,cpp,linux,py
+
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,py,mysql,html,css,laravel,git,github,linux&theme=light)](https://skillicons.dev)
 
 ## Top Projects
 
