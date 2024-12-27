@@ -11,11 +11,11 @@
 
 ## Hey, I'm Hassan 👋
 
-I'm **Hassan Abdelnaby**, a passionate developer with a keen interest in full-stack development. I love creating dynamic and responsive web applications that enhance user experience!
+I'm **Hassan Abdelnaby**, a passionate developer with a keen interest in Backend Development. I love creating dynamic and responsive web applications that enhance user experience!
 
 ## About Me
 
-I'm currently learning and expanding my skills as a full-stack engineer at **EELU**. I enjoy tackling challenging projects and continuously improving my coding abilities. I'm based in [Your Location], and I'm excited to connect with like-minded individuals!
+I'm currently learning and expanding my skills as a Backend engineer at **EELU**. I enjoy tackling challenging projects and continuously improving my coding abilities. I'm based in [Your Location], and I'm excited to connect with like-minded individuals!
 
 ## Skills & Technologies
 
