@@ -31,8 +31,8 @@ I'm currently learning and expanding my skills as a Backend engineer. I enjoy ta
 ## GitHub Stats
 
 👨‍💻 **Public Repositories**: 8  
-👥 **Followers**: 0  
-👤 **Following**: 2 
+👥 **Followers**: 1  
+👤 **Following**: 3 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanA69&show_icons=true&hide_title=true&theme=radical)
 
