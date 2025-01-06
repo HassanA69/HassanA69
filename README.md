@@ -11,11 +11,11 @@
 
 ## Hey, I'm Hassan 👋
 
-I'm **Hassan Abdelnaby**, a passionate developer with a keen interest in Backend Development. I love creating dynamic and responsive web applications that enhance user experience!
+My name is **Hassan Abdelnaby**, I am a .NET backend developer, and I am greatly inspired to create resilient and interactive web apps that deliver stunning user experience.
 
 ## About Me
 
-I'm currently learning and expanding my skills as a Backend engineer at **EELU**. I enjoy tackling challenging projects and continuously improving my coding abilities. I'm based in [Your Location], and I'm excited to connect with like-minded individuals!
+I'm currently learning and expanding my skills as a Backend engineer. I enjoy tackling challenging projects and continuously improving my coding abilities. And i'm excited to connect with like-minded individuals!
 
 ## Skills & Technologies
 
