@@ -20,7 +20,7 @@ I'm currently learning and expanding my skills as a Backend engineer. I enjoy ta
 ## Skills & Technologies
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,py,mysql,html,css,laravel,git,github,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,cs,c,py,mysql,html,css,laravel,git,github,linux&theme=light)](https://skillicons.dev)
 
 ## Top Projects
 
