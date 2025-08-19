@@ -1,51 +1,32 @@
-```
-                                        _   _                              _    __   ___  
-                                       | | | | __ _ ___ ___  __ _ _ __    / \  / /_ / _ \ 
-                                       | |_| |/ _` / __/ __|/ _` | '_ \  / _ \| '_ \ (_) |
-                                       |  _  | (_| \__ \__ \ (_| | | | |/ ___ \ (_) \__, |
-                                       |_| |_|\__,_|___/___/\__,_|_| |_/_/   \_\___/  /_/ 
-```
-
-  
-
-
-## Hey, I'm Hassan 👋
-
-My name is **Hassan Abdelnaby**, I am a .NET backend developer, and I am greatly inspired to create resilient and interactive web apps that deliver stunning user experience.
-
-## About Me
-
-I'm currently learning and expanding my skills as a Backend engineer. I enjoy tackling challenging projects and continuously improving my coding abilities. And i'm excited to connect with like-minded individuals!
+<h1 align="center">Hi, I'm Hassan Abdelnaby! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <i>I am a backend developer focused on <b>.NET Core<b>. </i>
+</p>
 
 ## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,java,cpp,php,cs,c,py,mysql,html,css,git,github,linux,md&theme=light)](https://skillicons.dev)
 
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,cs,c,py,mysql,html,css,laravel,git,github,linux&theme=light)](https://skillicons.dev)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFrcTBlOHBlem16Z3NhNzN3NHgyZ2VkcGV1aWMyMGFwZGd0Nm1udyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s5wFafpHxqKbIEERl9/giphy.gif" alt="Well" width="500"/>
+</p>
 
-## Top Projects
-
-- [Todo_PHP](https://github.com/HassanA69/Todo_PHP) - A simple PHP-based Todo application. ⭐️ 0 stars | Language: PHP | Forks: 0 | Issues: 0
-- [Login_app_PHP](https://github.com/HassanA69/Login_app_PHP) - A login application built using PHP. ⭐️ 0 stars | Language: PHP | Forks: 0 | Issues: 0
-
-
-## GitHub Stats
-
-👨‍💻 **Public Repositories**: 8  
-👥 **Followers**: 1  
-👤 **Following**: 3 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanA69&show_icons=true&hide_title=true&theme=radical)
-
-## Recent Activity
-
-- **Updated README.md** in [Todo_PHP](https://github.com/HassanA69/Todo_PHP) on December 25, 2024  
-- **Created repository** [Login_app_PHP](https://github.com/HassanA69/Login_app_PHP) on December 25, 2024  
-- **Pushed changes** to [Login_app_PHP](https://github.com/HassanA69/Login_app_PHP) on December 25, 2024
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share. Stay tuned for future updates!
+---
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassan-abdelnaby-)   [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/HassanAbdelnaby69/)
+<p align="center">
+  <a href="https://www.facebook.com/HassanAbdelnaby69" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-abdelnaby-">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hassan.abdelnaby69@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Hassan69" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
