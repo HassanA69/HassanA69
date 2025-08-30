@@ -4,7 +4,7 @@
 </p>
 
 ## Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,java,cpp,php,cs,c,py,mysql,html,css,git,github,linux,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,java,cpp,php,c,py,mysql,html,css,git,github,linux,md&theme=light)](https://skillicons.dev)
 
 ---
 <p align="center">
